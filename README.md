@@ -1,1 +1,1 @@
-Program example for a local company
+Example program for a local company
